@@ -1,0 +1,8 @@
+
+
+joseph = BankAccount('Joseph')
+
+max = BankAccount('max')
+
+transfer = Transfer(joseph, max, 100)
+
